@@ -1,6 +1,6 @@
 # DTMF-Pick-and-Place
 Dual Tone Multi-Frequency Pick and Place Robot.
-
+links driver: https://wiki.keyestudio.com/KS0489_Keyestudio_4WD_TB6612_Motor_Driver_Shield_(Black_and_Eco-friendly)
 ACKNOWLEDGEMENT: 
 I would like to thank everyone who supported me in my project. I am greatly indebted to Dr. Wenfang Xie for her guidance and constant supervision in the completion of the project. Dr. Wenfang Xie deserves special thanks for supplying critical project information and assisting with the project's completion.
 
