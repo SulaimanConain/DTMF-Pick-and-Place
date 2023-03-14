@@ -196,4 +196,5 @@ void loop() {
   while(digitalRead(s) == 1 && digitalRead(D0)==0 && digitalRead(D1)==0 && digitalRead(D2)==1 && digitalRead(D3)==1)
   
   {base_left();}
+  
 }
